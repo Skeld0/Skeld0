@@ -3,11 +3,6 @@
 I'm a beginner programmer learning **Python** and version control with **Git**.  
 Currently studying through the **CS50’s Introduction to Programming with Python** course.  
 
-## 🌱 What I'm focusing on
-- Writing clean and readable Python code  
-- Building small projects step by step  
-- Understanding computer science fundamentals  
-
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
