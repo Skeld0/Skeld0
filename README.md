@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Skeld0 👋  
 
-<!--
-**Skeld0/Skeld0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner programmer learning **Python** and version control with **Git**.  
+Currently studying through the **CS50’s Introduction to Programming with Python** course.  
 
-Here are some ideas to get you started:
+## 🌱 What I'm focusing on
+- Writing clean and readable Python code  
+- Building small projects step by step  
+- Understanding computer science fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+## 📊 GitHub Stats
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skeld0&show_icons=true&theme=default&hide_title=true)  
+
+---
+
+💡 *More projects coming soon as I learn and grow.*
