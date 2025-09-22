@@ -17,9 +17,4 @@
 ## 📈 Learning Journey
 - ✔ Completed **Learn Git Branching**  
 - 🚀 Currently studying **CS50P (Introduction to Programming with Python)**  
-- 🎯 Goal: master Python and build my first projects  
-
----
-
-## 🌐 Connect
-- 💻 [GitHub Profile](https://github.com/Skeld0)
+- 🎯 Goal: master Python and build my first projects
