@@ -41,4 +41,4 @@ I'm a beginner developer currently taking **CS50P (CS50's Introduction to Progra
 
 ## 👀 Profile Views
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
+![Visitors](https://komarev.com/ghpvc/?username=Skeld0E&color=blueviolet)
