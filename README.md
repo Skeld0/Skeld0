@@ -4,15 +4,37 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 🚀 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Skeld0&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skeld0&layout=compact&theme=radical" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Skeld0&theme=radical" />
+  <!-- Основная статистика -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Skeld0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="180" 
+    alt="GitHub Stats" 
+  />
+
+  <!-- Языки -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skeld0&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180" 
+    alt="Top Languages" 
+  />
+
+  <!-- Серия коммитов -->
+  <img 
+    src="https://streak-stats.demolab.com?user=Skeld0&theme=tokyonight&hide_border=true" 
+    height="180" 
+    alt="GitHub Streak" 
+  />
+
+  <!-- Контрибьюции -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skeld0&theme=tokyonight" 
+    alt="Profile Details" 
+  />
+
 </div>
 
 ---
