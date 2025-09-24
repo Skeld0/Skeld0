@@ -15,20 +15,6 @@
     alt="GitHub Stats" 
   />
 
-  <!-- Языки -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skeld0&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180" 
-    alt="Top Languages" 
-  />
-
-  <!-- Серия коммитов -->
-  <img 
-    src="https://streak-stats.demolab.com?user=Skeld0&theme=tokyonight&hide_border=true" 
-    height="180" 
-    alt="GitHub Streak" 
-  />
-
   <!-- Контрибьюции -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skeld0&theme=tokyonight" 
