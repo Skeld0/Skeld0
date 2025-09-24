@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7A00&width=435&lines=Python+Learner;CS50P+Student;Future+Developer)](https://git.io/typing-svg)
 
-I'm a beginner developer currently taking **CS50P (CS50's Introduction to Programming with Python)** by Harvard.
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -38,7 +36,3 @@ I'm a beginner developer currently taking **CS50P (CS50's Introduction to Progra
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-## 👀 Profile Views
-
-![Visitors](https://komarev.com/ghpvc/?username=Skeld0E&color=blueviolet)
