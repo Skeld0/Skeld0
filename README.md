@@ -4,12 +4,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Skeld0&theme=radical&row=2&column=4)
-
----
-
 ## 📊 My GitHub Stats
 
 <div align="center">
