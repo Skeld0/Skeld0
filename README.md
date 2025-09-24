@@ -23,12 +23,6 @@
 
 ---
 
-## 🐍 Contribution Activity
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🛠️ Currently Learning
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
