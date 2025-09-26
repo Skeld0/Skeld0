@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Skeld0.
 
-## 🚀 GitHub Analytics
-
 <div align="center">
 
   <!-- Основная статистика -->
